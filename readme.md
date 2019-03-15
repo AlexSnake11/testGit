@@ -1,5 +1,5 @@
-##Este es el archivo readme
+## Este es el archivo readme
 
-*Seguir las instrucciones
+*Seguir las instrucciones*
 
 >1.-
